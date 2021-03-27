@@ -27,20 +27,6 @@
 
 ![Terraform VS CloudFormation VS Ansible](images/terraform_cloudformation_ansible.jpg?raw=true "Title")
 
-<strong>Providers</strong>
-
-```
-provider "aws" {
-  region = "us-east-1"
-  access_key = ""
-  secret_key = ""
-}
-```
-
-* Experience with AWS
-* Linux command line
-* Basic know-how CI/CD or Jenkins
-
 <strong>References</strong>
 
 * [How to download and install terraform on windows](https://www.youtube.com/watch?v=HNOIXPpBQWg)
