@@ -1,0 +1,1 @@
+## [Getting Started with Terraform for Azure: Authentication Demo](https://www.youtube.com/watch?v=IHHIXf39Igo)
