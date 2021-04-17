@@ -1,0 +1,9 @@
+#Folders
+.terraform
+
+#Files
+subscription.json
+terraform.tfvars
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
