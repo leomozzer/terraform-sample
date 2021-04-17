@@ -1,0 +1,23 @@
+<policies>
+    <inbound>
+        <base />
+        <cors>
+            <allowed-origins>
+                <origin>*</origin>
+                <!-- allow any -->
+            </allowed-origins>
+            <allowed-methods>
+                <method>POST</method>
+                <method>GET</method>
+            </allowed-methods>
+            <allowed-headers>
+                <header>content-type</header>
+                <header>accept</header>
+                <header>Authorization</header>
+            </allowed-headers>
+        </cors>
+    </inbound>
+    <outbound>
+        <base />
+    </outbound>
+</policies>
